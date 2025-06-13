@@ -1,1 +1,1 @@
-# Linguagens-Automatos-e-Computa-o
+# Linguagens_Automatos_e_Computacao
